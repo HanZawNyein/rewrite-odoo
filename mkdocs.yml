@@ -19,8 +19,3 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-
-plugins:
-  - git-committers:
-      repository: HanZawNyein/rewrite-odoo
-      branch: DEV
