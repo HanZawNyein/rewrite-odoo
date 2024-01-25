@@ -1,6 +1,6 @@
 site_name: Rewrite-Odoo
 repo_url: https://github.com/HanZawNyein/rewrite-odoo
-repo_name: squidfunk/mkdocs-material
+repo_name: HanZawNyein/rewrite-odoo
 theme:
   name: material
   language: my
