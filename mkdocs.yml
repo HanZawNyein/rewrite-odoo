@@ -2,6 +2,11 @@ site_name: Rewrite-Odoo
 theme:
   name: material
   language: my
+
+  icon:
+    repo: HanZawNyein/rewrite-odoo
+  repo_url: https://github.com/HanZawNyein/rewrite-odoo
+
   features:
     - content.code.copy
     - content.code.annotate
@@ -14,3 +19,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
+plugins:
+  - git-committers:
+      repository: HanZawNyein/rewrite-odoo
+      branch: DEV
